@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ChromeSuite" parallel="false" verbose="1">
+
+    <test name="CreateLandscapeCompany" >
+            <classes>
+                <class name="Tests.SmokeTest"> </class>
+            </classes>
+    </test>
+
+
+
+</suite>
